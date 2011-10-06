@@ -1,0 +1,3 @@
+[submodule "ducttape-engine"]
+	path = ducttape-engine
+	url = ./ducttape-engine/
